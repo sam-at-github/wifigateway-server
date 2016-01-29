@@ -21,4 +21,4 @@ Installation
 
 Config
 ======
-See [server.ini](conf/server.ini) which is installed to `/etc/wifigateway/server.ini`. Also see [sample configs for hostapd and dnsmasq](conf/).
+See [server.ini](conf/wifigateway/server.ini) which is installed to `/etc/wifigateway/server.ini`. Also see [sample configs for hostapd and dnsmasq](conf/).
